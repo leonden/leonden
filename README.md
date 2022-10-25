@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Leon</h1>
-<h3 align="center">A passionate developer from Switzerland</h3>
+# Hi 👋, I'm Leon
+# A passionate developer from Switzerland
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonden&label=Profile%20views&color=0e75b6&style=flat" alt="leonden" /> </p>
 
