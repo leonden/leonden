@@ -2,7 +2,7 @@ Hey there!
 I'm Leon - A developer from Switzerland.
 I love design and frontend!
 
-<h1>Hi 👋, I'm Leon</h1>
+<h1>Hi 👋, I'm Leon ツ</h1>
 <h3>I love frontend!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonden&label=Profile%20views&color=0e75b6&style=flat" alt="leonden" /> </p>
