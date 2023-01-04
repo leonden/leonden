@@ -7,8 +7,6 @@ I love design and frontend!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonden&label=Profile%20views&color=0e75b6&style=flat" alt="leonden" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonden" alt="leonden" /></a> </p>
-
 - 🔭 I’m currently working on [Quest I](https://github.com/leonden/Quest)
 
 - 🌱 I’m currently learning **Angular, TypeScript, Java, C++**
@@ -28,10 +26,12 @@ I love design and frontend!
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonden&show_icons=true&locale=en&layout=compact" alt="leonden" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonden&show_icons=true&locale=en&layout=compact" alt="leonden" width="500px" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonden&show_icons=true&locale=en" alt="leonden" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonden" alt="leonden" width="500px" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonden&" alt="leonden" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonden&show_icons=true&locale=en" alt="leonden" width="500px" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonden&" alt="leonden" width="500px" /></p>
 
 ---
