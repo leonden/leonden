@@ -26,12 +26,12 @@ I love design and frontend!
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonden&show_icons=true&locale=en&layout=compact" alt="leonden" width="500px" /></p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonden" alt="leonden" width="100%" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonden" alt="leonden" width="500px" /></a> </p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=leonden&show_icons=true&locale=en" alt="leonden" width="50%" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonden&show_icons=true&locale=en" alt="leonden" width="500px" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonden&show_icons=true&locale=en&layout=compact" alt="leonden" width="50%" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonden&" alt="leonden" width="500px" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=leonden&" alt="leonden" width="50%" /></p>
 
 ---
