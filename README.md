@@ -1,6 +1,4 @@
 Hey there!
-I'm Leon - A developer from Switzerland.
-I love design and frontend!
 
 <h1>Hi 👋, I'm Leon ツ</h1>
 <h3>I love frontend!</h3>
