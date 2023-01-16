@@ -7,6 +7,8 @@ I love design and frontend!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonden&label=Profile%20views&color=0e75b6&style=flat" alt="leonden" /> </p>
 
+<img src="/octopunk.gif" alt="Octo Punk" style="float: right;"/>
+
 - 🔭 I’m currently working on [Quest I](https://github.com/leonden/Quest)
 
 - 🌱 I’m currently learning **Angular, TypeScript, Java, C++**
