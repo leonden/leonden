@@ -28,12 +28,16 @@ Hey there!
 
 ---
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonden" alt="leonden" width="100%" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonden" alt="leonden" width="100%" /></a>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=leonden&show_icons=true&locale=en" alt="leonden" width="50%" /></p>
+<div style="display: flex; flex-direction: column; align-items: center">
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonden&show_icons=true&locale=en&layout=compact" alt="leonden" width="50%" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=leonden&show_icons=true&locale=en" alt="leonden" width="50%" />
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=leonden&" alt="leonden" width="50%" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonden&show_icons=true&locale=en&layout=compact" alt="leonden" width="50%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=leonden&" alt="leonden" width="50%" />
+
+</div>
 
 ---
