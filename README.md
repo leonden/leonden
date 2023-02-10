@@ -7,7 +7,7 @@ Hey there!
 
 - 🔭 I’m currently working on [Quest I](https://github.com/leonden/Quest)
 
-- 🌱 I’m currently learning **Angular, TypeScript, Java, C++**
+- 🌱 I’m currently learning **Angular, React, TypeScript, Java, C++, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/leonden](https://github.com/leonden)
 
