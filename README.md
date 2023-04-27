@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Angular, React, TypeScript, Java, C++, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/leonden](https://github.com/leonden)
+- 👨‍💻 All of my projects are available here on [my GitHub](https://github.com/leonden?tab=repositories)
 
 - 📫 How to reach me contact@leonhochwimmer.com
 
