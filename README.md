@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Quest I](https://github.com/leonden/Quest)
 
-- 🌱 I’m currently learning **Angular, React, TypeScript, Java, C++, MongoDB**
+- 🌱 I’m currently learning **React, Next.js & TypeScript**
 
 - 👨‍💻 All of my projects are available here on [my GitHub](https://github.com/leonden?tab=repositories)
 
