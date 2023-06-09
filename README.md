@@ -1,36 +1,79 @@
 # Hi 👋, I'm Leon ツ
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonden&label=Profile%20views&color=0e75b6&style=flat" alt="leonden" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonden&label=Profile%20views&color=21c0d1&style=for-the-badge" alt="leonden" /> </p>
 
-- 🔭 I’m currently working on [Quest I](https://github.com/leonden/Quest)
+## About me
 
-- 🌱 I’m currently learning **React, Next.js & TypeScript**
+As an application developer with a passion for frontend development, I am constantly seeking out new technologies and approaches to improve my skills and enhance the user experience. With a curious and open mindset, I thrive on learning new things and taking on new challenges.
 
-- 👨‍💻 All of my projects are available here on [my GitHub](https://github.com/leonden?tab=repositories)
+My experience includes developing and implementing a range of applications, from simple mobile apps to complex web-based systems. I am skilled in a variety of programming languages and frameworks, including JavaScript, Java, React and Angular among others.
 
-- 📫 How to reach me contact@leonhochwimmer.com
-
-- 📄 Know about my experiences [https://leonhochwimmer.com](https://leonhochwimmer.com)
+If you're looking for a dedicated and enthusiastic application developer who is committed to staying at the forefront of the latest technologies, then please don't hesitate to reach out to me. I look forward to connecting with you!
 
 ---
 
-<img src="/contributions.svg" alt="Contributions" width="100%" />
+## Get in touch
+
+👨‍💻 All of my projects are available at [on personal GitHub](https://github.com/leonden)
+
+📫 Reach me via contact@leonhochwimmer.com
+
+📄 Know about my experiences on [my personal website](https://leonhochwimmer.com)
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="reactjs" width="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.0e23481b805fa66eb9ff0c177ff27030?rik=00LN9yVT3nMAyw&riu=http%3a%2f%2fpluspng.com%2fimg-png%2flogo-mongodb-png-mongodb-1600.png&ehk=YwJU48GqAzZ6V3Zlafc4pyilw%2biV5XBxEO7chpNV3M8%3d&risl=&pid=ImgRaw&r=0" alt="mongodb" width="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.lightroom.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1200px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="xd" width="40" height="40"/> </a> <a href="https://affinity.serif.com/de/photo/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Affinity-photo-icon.png/800px-Affinity-photo-icon.png" alt="xd" width="40" height="40"/> <a href="https://affinity.serif.com/de/designer/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Affinity-Designer.png" alt="xd" width="40" height="40"/> </a>
+<div align="center">
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages,%20Tools,%20and%20Skills%20🛠&align=center&titleAlign=center&fontSize=22&lineHeight=10&lineCount=5&theme=rainglow&width=750&bg=%230e1114&badge=%2312161a&border=%2312161a&titleColor=%2321c0d1&line1=react,react,auto;angular,angular,dd0031;javascript,javascript,auto;axios,axios,5A29E4;arduino,arduino,auto;typescript,typescript,auto;&line2=prettier,prettier,auto;java,java,auto;mongodb,mongodb, auto;mysql,mysql,auto;springboot,springboot,auto;python,python,auto;&line3=git,git,auto;linux,linux,auto;html5,html5,auto;css3,css3,1572B6;sass,sass,auto;postman,postman,auto;visualstudiocode,vscode,3BA1E7;&line4=intellijidea,intellij,cc3558;adobexd,adobexd,auto;adobephotoshop,photoshop,auto;adobelightroom,lightroom,auto;adobepremierepro,premiere pro,auto;&line5=markdown,markdown,auto;oracle,oracle,c84431;affinity,photo,ed7cff;affinity,designer,53d0fa;figma,figma,auto;microsoftazure,azure,30ade2;" alt="GitHub Readme Tech Stack" />
+</div>
 
-</p>
+---
+
+<img src="contributions.svg" alt="Contributions" width="100%" />
 
 ---
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonden" alt="leonden" width="100%" /></a>
+<!-- ## Achievements
 
-<img src="https://github-readme-stats.vercel.app/api?username=leonden&show_icons=true&locale=en" alt="leonden" width="40%" />
+<img src="https://github-profile-trophy.vercel.app/?username=leonden&row=1&column=8&no-bg=true&no-frame=true&margin-w=15&theme=dracula" alt="leonden" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonden&show_icons=true&locale=en&layout=compact" alt="leonden" width="40%" />
+--- -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=leonden&" alt="leonden" width="40%" />
+## My Statistics
 
----
+<center>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=leonden&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=21c0d1&bg_color=151515&border_radius=0"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=leonden&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&title_color=000&text_color=000&icon_color=21c0d1&bg_color=fff&border_radius=0"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=leonden&show_icons=true"  width="65%"/>
+</picture>
+
+<picture>
+<source
+  srcset="https://streak-stats.demolab.com?user=leonden&theme=dark&hide_border=true&border_radius=0&background=151515&fire=21c0d1&currStreakLabel=21c0d1&ring=21c0d1"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://streak-stats.demolab.com?user=leonden&hide_border=true&border_radius=0&ring=21c0d1&fire=21c0d1&currStreakLabel=21c0d1"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://streak-stats.demolab.com?user=leonden&theme=dark&hide_border=true&border_radius=0&background=151515&fire=21c0d1&currStreakLabel=21c0d1&ring=21c0d1" alt="leonden"  width="65%"/>
+</picture>
+
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=leonden&show_icons=true&locale=en&theme=dark&layout=compact&hide_border=true&border_radius=0&text_color=fff"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=leonden&show_icons=true&locale=en&layout=compact&hide_border=true&border_radius=0&background=fff&title_color=000&text_color=000"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonden&show_icons=true&locale=en&title_color=fff&layout=compact&hide_border=true&border_radius=0" alt="leonden" width="65%"/>
+</picture>
+</center>
