@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Leon ツ</h1>
+# Hi 👋, I'm Leon ツ
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonden&label=Profile%20views&color=21c0d1&style=for-the-badge" alt="leonden" /> </p>
 
@@ -16,7 +16,7 @@ If you're looking for a dedicated and enthusiastic application developer who is 
 
 👨‍💻 All of my projects are available at [on personal GitHub](https://github.com/leonden)
 
-📫 How to reach me contact@leonhochwimmer.com
+📫 Reach me via contact@leonhochwimmer.com
 
 📄 Know about my experiences on [my personal website](https://leonhochwimmer.com)
 
