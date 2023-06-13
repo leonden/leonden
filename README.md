@@ -6,8 +6,6 @@
 
 As an application developer with a passion for frontend development, I am constantly seeking out new technologies and approaches to improve my skills and enhance the user experience. With a curious and open mindset, I thrive on learning new things and taking on new challenges.
 
-My experience includes developing and implementing a range of applications, from simple mobile apps to complex web-based systems. I am skilled in a variety of programming languages and frameworks, including JavaScript, Java, React and Angular among others.
-
 If you're looking for a dedicated and enthusiastic application developer who is committed to staying at the forefront of the latest technologies, then please don't hesitate to reach out to me. I look forward to connecting with you!
 
 ---
