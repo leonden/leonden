@@ -12,7 +12,7 @@ If you're looking for a dedicated and enthusiastic application developer who is 
 
 ## Get in touch
 
-👨‍💻 All of my projects are available at [on personal GitHub](https://github.com/leonden)
+👨‍💻 All of my projects are available at [my personal GitHub](https://github.com/leonden)
 
 📫 Reach me via contact@leonhochwimmer.com
 
