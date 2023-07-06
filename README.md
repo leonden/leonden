@@ -4,9 +4,9 @@
 
 ## About me
 
-As an application developer with a passion for frontend development, I am constantly seeking out new technologies and approaches to improve my skills and enhance the user experience. With a curious and open mindset, I thrive on learning new things and taking on new challenges.
+As a software developer with a passion for frontend development, I am constantly seeking out new technologies and approaches to improve my skills and enhance the user experience. With a curious and open mindset, I thrive on learning new things and taking on new challenges.
 
-If you're looking for a dedicated and enthusiastic application developer who is committed to staying at the forefront of the latest technologies, then please don't hesitate to reach out to me. I look forward to connecting with you!
+If you're looking for a dedicated and enthusiastic software developer who is committed to staying at the forefront of the latest technologies, then please don't hesitate to reach out to me. I look forward to connecting with you!
 
 ---
 
