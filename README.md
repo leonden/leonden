@@ -38,7 +38,7 @@ If you're looking for a dedicated and enthusiastic software developer who is com
 
 <img src="https://github-profile-trophy.vercel.app/?username=leonden&row=1&column=8&no-bg=true&no-frame=true&margin-w=15&theme=dracula" alt="leonden" width="100%" />
 
---- -->
+---
 
 ## My Statistics
 
@@ -79,3 +79,5 @@ If you're looking for a dedicated and enthusiastic software developer who is com
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonden&show_icons=true&locale=en&title_color=fff&layout=compact&hide_border=true&border_radius=0" alt="leonden" width="65%"/>
 </picture>
 </center>
+
+-->
