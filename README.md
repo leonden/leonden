@@ -16,7 +16,7 @@ If you're looking for a dedicated and enthusiastic software developer who is com
 
 📫 Reach me via contact@leonhochwimmer.com
 
-📄 Know about my experiences on [my personal website](https://leonhochwimmer.com)
+📄 Know about my experiences on [my personal website](https://dev.leonhochwimmer.com)
 
 ---
 
